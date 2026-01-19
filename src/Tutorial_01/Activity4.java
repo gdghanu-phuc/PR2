@@ -7,6 +7,8 @@ public class Activity4 {
         String name = sc.nextLine();
         String upperName = name.toUpperCase();
         System.out.println("Hello, " + upperName + ", nice to meet you.");
-        }
+        System.out.println("Name");
     }
+    }
+
 
