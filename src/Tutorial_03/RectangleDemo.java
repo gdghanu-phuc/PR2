@@ -11,10 +11,10 @@ public class RectangleDemo {
         r1.setLength(5.6f);
         r2.setWidth(7.8f);
 
-        System.out.println("Length is: " + r1.getLength();
-        System.out.println("Width is: " + r1.getWidth();
+        System.out.println("Length is: " + r1.getLength());
+        System.out.println("Width is: " + r1.getWidth());
 
-        System.out.print("Area is: " + r1.getArea());
-        System.out.print("Perimeter is: " + r1.getPerimeter());
+        System.out.printf("Area is: %.2f%n", r1.getArea());
+        System.out.printf("Perimeter is: %.2f%n", r1.getPerimeter());
     }
 }

@@ -20,7 +20,7 @@ public class Rectangle {
         return width;
     }
     public void setLength(float length) {
-        this.length = length
+        this.length = lengthZ
     }
     public void setWidth(float width) {
         this.width = width;
